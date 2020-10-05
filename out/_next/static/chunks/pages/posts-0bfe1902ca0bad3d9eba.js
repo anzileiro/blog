@@ -1,1 +1,0 @@
-_N_E=(window.webpackJsonp_N_E=window.webpackJsonp_N_E||[]).push([[10],{GOMq:function(n,t,o){(window.__NEXT_P=window.__NEXT_P||[]).push(["/posts",function(){return o("hVL0")}])},hVL0:function(n,t,o){"use strict";o.r(t);var u=o("q1tI"),_=o.n(u),e=o("apO0"),i=_.a.createElement;t.default=function(){return i(e.a,null,i("div",null,"Posts page."," "))}}},[["GOMq",0,2,1,3]]]);
