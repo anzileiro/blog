@@ -1,0 +1,1 @@
+_N_E=(window.webpackJsonp_N_E=window.webpackJsonp_N_E||[]).push([[8],{TaPz:function(n,u,t){"use strict";t.r(u);var a=t("q1tI"),o=t.n(a),_=t("apO0"),e=o.a.createElement;u.default=function(){return e(_.a,null,e("div",null,"About page."," "))}},hIud:function(n,u,t){(window.__NEXT_P=window.__NEXT_P||[]).push(["/about",function(){return t("TaPz")}])}},[["hIud",0,2,1,3]]]);
